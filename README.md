@@ -8,7 +8,7 @@ Here you will find:
 3. Contents
 
 ## Dataset
-This analysis uses the Fisher's Iris Dataset, imported from: 
+This analysis uses the Fisher's Iris Dataset, accessed from the *'sklearn.datasets'* module using *'load_iris'* [1]. It can also be downloaded/imported from [UV Ivine's Machine Leanring Repository](https://archive.ics.uci.edu/dataset/53/iris) [2]
 
 
 
@@ -30,3 +30,7 @@ I recommend using Visual Studio Code and Anaconda to run the notebook.
 
 ## Contents
 - Analysis 1: 
+
+## References
+[1] https://www.geeksforgeeks.org/machine-learning/iris-dataset/
+[2] Fisher, R. (1936). Iris [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
