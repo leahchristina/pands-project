@@ -10,6 +10,8 @@ Here you will find:
 ## Dataset
 This analysis uses the Fisher's Iris Dataset, accessed from the *'sklearn.datasets'* module using *'load_iris'* [1]. It can also be downloaded/imported from [UV Ivine's Machine Leanring Repository](https://archive.ics.uci.edu/dataset/53/iris) [2]
 
+This dataset is from 1936, containing 50 samples from three iris flower species. It is widely used in the education of data analysis, visualisation and machine learning, due to it's simple structure that is suitable for beginners - similar to 'Hello World' in programming. [3] https://www.kaggle.com/datasets/uciml/iris
+
 
 
 ## Repository Structure
@@ -34,9 +36,10 @@ I recommend using Visual Studio Code and Anaconda to run the notebook.
 - Step 3: Summary of each Variable
 - Step 4: Histograms
 - Step 5: Scatter Plots
-- Step 6: Other Analysis
+- Step 6: Other Analysis (Box Plots)
 - Step 7: Conclusion of Analysis
 
 ## References
 [1] https://www.geeksforgeeks.org/machine-learning/iris-dataset/
 [2] Fisher, R. (1936). Iris [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
+[3] https://www.kaggle.com/datasets/uciml/iris
