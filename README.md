@@ -29,7 +29,13 @@ pip install -r requirements.txt
 I recommend using Visual Studio Code and Anaconda to run the notebook. 
 
 ## Contents
-- Analysis 1: 
+- Step 1: Importing the dataset & packages
+- Step 2: Loading the Dataset & Viewing the Structure
+- Step 3: Summary of each Variable
+- Step 4: Histograms
+- Step 5: Scatter Plots
+- Step 6: Other Analysis
+- Step 7: Conclusion of Analysis
 
 ## References
 [1] https://www.geeksforgeeks.org/machine-learning/iris-dataset/
