@@ -1,0 +1,8 @@
+# Packages required/recommended to run the notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+notebook
+ipython
